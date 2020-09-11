@@ -1,7 +1,7 @@
 # Data Science Portfolio
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter Notebook(Python). Click on the projects to see full analysis and code.
-#### * Email : lasnaptd@gmail.com
-#### * LinkedIn : [Lasna P](https://www.linkedin.com/in/lasnausman/)
+#### Email    : lasnaptd@gmail.com
+#### LinkedIn : [Lasna P](https://www.linkedin.com/in/lasnausman/)
 
 ## PROJECTS
 ### [Loan Lending](https://github.com/lasnausman/Portfolio/tree/master/Loan%20Lending%20case%20study-%20Analysis)<img src="https://th.bing.com/th/id/OIP.tMlgFbyyA7524W0O8llNTgHaFf?pid=Api&rs=1" width="200" ALIGN="left"/> 
